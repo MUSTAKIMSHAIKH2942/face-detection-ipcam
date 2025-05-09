@@ -1,0 +1,67 @@
+{
+  "face_recognition": {
+    "enabled": true,
+    "mode": "event",
+    "frequency_ms": 1000,
+    "output_path": "logs/face_recognition",
+    "compression_period": "daily",
+    "retention_days": 15,
+    "log_trigger_filter": "distinct_only",
+    "meta_fields": ["face_recognized", "person_name", "confidence"],
+    "log_level": "INFO",
+    "source_name": "FACE_RECOGNITION",
+    "max_plugin_failures": 1
+  },
+  "helmet_detection": {
+    "enabled": true,
+    "mode": "continuous",
+    "frequency_ms": 2000,
+    "output_path": "logs/helmet_detection",
+    "compression_period": "2days",
+    "retention_days": 7,
+    "log_trigger_filter": "distinct_only",
+    "meta_fields": ["helmet_detected", "confidence"],
+    "log_level": "DEBUG",
+    "source_name": "HELMET_DETECTION",
+    "max_plugin_failures": 1
+  },
+  "fire_detection": {
+    "enabled": true,
+    "mode": "event",
+    "frequency_ms": 1000,
+    "output_path": "logs/fire_detection",
+    "compression_period": "daily",
+    "retention_days": 30,
+    "log_trigger_filter": "distinct_only",
+    "meta_fields": ["fire_detected", "confidence"],
+    "log_level": "WARNING",
+    "source_name": "FIRE_DETECTION",
+    "max_plugin_failures": 1
+  },
+  "intrusion_detection": {
+    "enabled": true,
+    "mode": "event",
+    "frequency_ms": 1500,
+    "output_path": "logs/intrusion_detection",
+    "compression_period": "weekly",
+    "retention_days": 20,
+    "log_trigger_filter": "distinct_only",
+    "meta_fields": ["intrusion_detected", "confidence"],
+    "log_level": "ALERT",
+    "source_name": "INTRUSION_DETECTION",
+    "max_plugin_failures": 1
+  },
+  "system_health": {
+    "enabled": true,
+    "mode": "event",
+    "frequency_ms": 10000,
+    "output_path": "logs/system_health",
+    "compression_period": "daily",
+    "retention_days": 14,
+    "log_trigger_filter": "distinct_only",
+    "meta_fields": ["status", "uptime", "cpu", "ram"],
+    "log_level": "INFO",
+    "source_name": "SYSTEM",
+    "max_plugin_failures": 1
+  }
+}

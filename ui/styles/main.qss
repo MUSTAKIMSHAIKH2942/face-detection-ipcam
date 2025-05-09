@@ -1,0 +1,93 @@
+QMainWindow {
+    background-color: #1e1e2f;
+    color: #f0f0f0;
+    font-family: "Segoe UI";
+    font-size: 13px;
+}
+
+QLabel {
+    color: #f0f0f0;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: #2d2d3a;
+    color: #ffffff;
+    border: 1px solid #444;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #3a3a4a;
+}
+
+QPushButton:pressed {
+    background-color: #44445a;
+}
+
+QTextEdit, QLineEdit {
+    background-color: #2c2c3c;
+    color: #e0e0e0;
+    border: 1px solid #555;
+    padding: 4px;
+    border-radius: 3px;
+    selection-background-color: #505070;
+}
+
+QTableWidget {
+    background-color: #262636;
+    color: #e8e8e8;
+    gridline-color: #444;
+    selection-background-color: #44445a;
+    selection-color: #ffffff;
+}
+
+QHeaderView::section {
+    background-color: #2e2e3e;
+    color: #ffffff;
+    padding: 4px;
+    border: 1px solid #444;
+    font-weight: bold;
+}
+
+QListWidget {
+    background-color: #262636;
+    color: #f8f8f8;
+    border: 1px solid #444;
+    padding: 4px;
+}
+
+QGroupBox {
+    border: 1px solid #444;
+    border-radius: 4px;
+    margin-top: 10px;
+    padding: 8px;
+    color: #cccccc;
+}
+
+QGroupBox:title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    padding: 0 3px;
+    font-weight: bold;
+}
+
+QScrollBar:vertical, QScrollBar:horizontal {
+    background: #2a2a3a;
+    border: none;
+    width: 8px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical, QScrollBar::handle:horizontal {
+    background: #505070;
+    border-radius: 4px;
+    min-height: 20px;
+    min-width: 20px;
+}
+
+QScrollBar::add-line, QScrollBar::sub-line {
+    background: none;
+    border: none;
+}

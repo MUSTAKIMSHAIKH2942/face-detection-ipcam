@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2025-04-27 16:38:30",
+        "camera_id": 0,
+        "plugin_name": "helmet_detection",
+        "detection_info": "Helmet detected",
+        "severity": "High"
+    }
+]

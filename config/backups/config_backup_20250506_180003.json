@@ -1,0 +1,11 @@
+{
+    "server_ip": "192.168.1.100",
+    "backup_folder": "E:/Project AI/itsOji_eyeq_enterprise 27.04.2025/EyeQ_Backups",
+    "plugin_folder": "E:/Project AI/itsOji_eyeq_enterprise 27.04.2025/itsOji_eyeq_enterprise/plugins",
+    "camera_sources": [
+        "0",
+        "rtsp://192.168.1.101/live",
+        "rtsp://192.168.1.102/live"
+    ],
+    "report_format": "PDF"
+}
