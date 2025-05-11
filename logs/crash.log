@@ -8942,3 +8942,807 @@ Source   : 0
 Traceback:
 (No exception object passed)
 
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:58:44
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:58:50
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:58:56
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:02
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:09
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:15
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:21
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:28
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:34
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:40
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:46
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:52
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 15:59:58
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:00:04
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:00:11
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:00:17
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:00:23
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 104, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:01:54
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 118, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:02:00
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 118, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:02:06
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 118, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:02:13
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 118, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:06:53
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 32, in load_plugin
+    plugin_class = getattr(module, "Plugin")
+AttributeError: module 'plugins.face_recognition.plugin' has no attribute 'Plugin'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:07:00
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:08:54
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 32, in load_plugin
+    plugin_class = getattr(module, "Plugin")
+AttributeError: module 'plugins.face_recognition.plugin' has no attribute 'Plugin'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:09:02
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:09:51
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:09:55
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:09:58
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:10:04
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:10:10
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:10:17
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:10:23
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:10:29
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera usb_0
+Plugin   : face_recognition
+Camera_id: usb_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:14:00
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:14:06
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:14:12
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:14:18
+Level    : ERROR
+Context  : ⚠️ Plugin 'face_recognition' failed on camera ip_0
+Plugin   : face_recognition
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 106, in apply_plugins
+    result = plugin.process(resized)
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 103, in process
+    raise Exception("Model not loaded. Call load_model() before process().")
+Exception: Model not loaded. Call load_model() before process().
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:48
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:48
+Level    : ERROR
+Context  : ⚠️ Plugin 'fire_detection' failed on camera ip_0
+Plugin   : fire_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:48
+Level    : ERROR
+Context  : ⚠️ Plugin 'helmet_detection' failed on camera ip_0
+Plugin   : helmet_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:48
+Level    : ERROR
+Context  : ⚠️ Plugin 'intrusion_detection' failed on camera ip_0
+Plugin   : intrusion_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:49
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:15:50
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:00
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:00
+Level    : ERROR
+Context  : ⚠️ Plugin 'fire_detection' failed on camera ip_0
+Plugin   : fire_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:00
+Level    : ERROR
+Context  : ⚠️ Plugin 'helmet_detection' failed on camera ip_0
+Plugin   : helmet_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:00
+Level    : ERROR
+Context  : ⚠️ Plugin 'intrusion_detection' failed on camera ip_0
+Plugin   : intrusion_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:01
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:02
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:04
+Level    : ERROR
+Context  : Plugin 'face_recognition' requires model loading before process.
+Traceback:
+Exception: Model not loaded for plugin
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:16:04
+Level    : ERROR
+Context  : ⚠️ Plugin 'intrusion_detection' failed on camera ip_0
+Plugin   : intrusion_detection
+Camera_id: ip_0
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 156, in apply_plugins
+    if hasattr(plugin, 'load_model') and not plugin.is_model_loaded():
+                                             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'is_model_loaded'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:20:16
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:22:05
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:25:48
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 33, in load_plugin
+    plugin_instance = plugin_class()
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 86, in __init__
+    self.known_faces = self.load_known_faces()  # Load known faces from folder
+                       ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 109, in load_known_faces
+    self.face_recognizer.train(face_images, np.array(labels))  # Train the model
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Plugin' object has no attribute 'face_recognizer'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:26:25
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 32, in load_plugin
+    plugin_class = getattr(module, "Plugin")
+AttributeError: module 'plugins.face_recognition.plugin' has no attribute 'Plugin'
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:27:50
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 33, in load_plugin
+    plugin_instance = plugin_class()
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 86, in __init__
+    self.load_known_faces()  # Load known faces from folder
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 119, in load_known_faces
+    self.face_recognizer.train(face_images, np.array(labels))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cv2.error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'train'
+> Overload resolution failed:
+>  - labels data type = <U13 is not supported
+>  - Expected Ptr<cv::UMat> for argument 'labels'
+
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:29:34
+Level    : ERROR
+Context  : ❌ Error loading plugin: face_recognition
+Plugin   : face_recognition
+Stage    : load_plugin
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\core\plugin_manager.py", line 33, in load_plugin
+    plugin_instance = plugin_class()
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 86, in __init__
+    self.load_known_faces()  # Load known faces from folder
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\musta\OneDrive\Desktop\app\face-detection-ipcam\plugins\face_recognition\plugin.py", line 119, in load_known_faces
+    self.face_recognizer.train(face_images, np.array(labels))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+cv2.error: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'train'
+> Overload resolution failed:
+>  - labels data type = <U13 is not supported
+>  - Expected Ptr<cv::UMat> for argument 'labels'
+
+
+
+--- Exception Logged ---
+Time     : 2025-05-11 16:29:40
+Level    : ERROR
+Context  : Camera stopped after 50 failed frame reads
+Camera_id: ip_0
+Type     : ip
+Source   : 0
+Traceback:
+(No exception object passed)
+
