@@ -15,5 +15,3 @@ This is a simple and efficient **face detection system** built using **Python**,
 
 ---
 
-## 📦 Project Structure
-
